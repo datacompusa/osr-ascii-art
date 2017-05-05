@@ -1,0 +1,19 @@
+{
+    "name": "osr-ascii-art",
+    "version": "1.0.0",
+    "description": "Adding a bit of fun to gulp",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./node_modules/mocha/bin/mocha -V --reporter spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:opensourcerefinery/osr-ascii-art.git"
+    },
+    "author": "Michael Koert",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.2.0"
+    }
+}

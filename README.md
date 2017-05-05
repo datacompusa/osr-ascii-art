@@ -1,0 +1,1 @@
+Simple fun ascii art that you can output in the cli or log well developing.
