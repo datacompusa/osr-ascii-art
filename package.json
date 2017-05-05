@@ -11,7 +11,7 @@
         "url": "git@github.com:opensourcerefinery/osr-ascii-art.git"
     },
     "author": "Michael Koert",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
         "chai": "^3.5.0",
         "mocha": "^3.2.0"
